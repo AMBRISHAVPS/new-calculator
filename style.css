@@ -1,0 +1,18 @@
+#output{
+    background: #a6a5a5;
+    width: 8.5cm;
+    height: 1cm;
+}
+#one{
+ background: white;
+ width: 2cm;
+ height: 1cm;
+}
+#one:hover{
+    background:#7a8590;
+    color: white;
+}
+.container{
+   padding-left: 15cm;
+   padding-top: 5cm;
+}
